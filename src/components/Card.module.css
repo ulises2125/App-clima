@@ -1,0 +1,38 @@
+body{
+    background-image: url(http://www.fonditos3d.com/1920x1080/atardecer-3d.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.boton{
+    background-color: white;
+    box-shadow: 0px 0px 5px 1px black;
+    width: 35px;
+    border-radius: 5px;
+    align-self: flex-end;
+    margin: 5px;
+}
+.text{
+    display: flex;
+    justify-content:space-evenly;
+}
+.fondo{
+    width: 250px;
+    height: 250px;
+    background-color: #aad8d3;
+    display: inline-flex;
+    flex-direction: column;
+    border-radius: 7px;
+    box-shadow: 0px 0px 5px 1px black;
+    margin-bottom: 10px;
+
+}
+.boton:hover{
+    background-color: #ec4646;
+}
+.image{
+    width: 120px;
+    height: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -40px;
+}

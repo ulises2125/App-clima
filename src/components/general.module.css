@@ -1,0 +1,16 @@
+.info{
+    color:white;
+}
+.pa{
+    color:white;
+}
+.name{
+    color:white;
+}
+.conteiner{
+    background-color: #583d72;
+    display: inline-block;
+    border-radius: 10px;
+    width: 200px;
+    height: 200px;
+}
